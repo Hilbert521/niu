@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hilbert521.github.io/niu/sitemap.xml

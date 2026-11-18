@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>牛兴龙</title>
+    <link>https://hilbert521.github.io/niu</link>
+    <description></description>
+    <language>zh-CN</language>
+    <generator>GitPress</generator>
+    <item>
+      <title>你好,世界</title>
+      <link>https://hilbert521.github.io/niu/posts/hello-world/</link>
+      <guid>https://hilbert521.github.io/niu/posts/hello-world/</guid>
+      <pubDate>Wed, 18 Nov 2026 08:28:42 GMT</pubDate>
+      <description>我在 GitPress 上的第一篇文章。</description>
+    </item>
+  </channel>
+</rss>
